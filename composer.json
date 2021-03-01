@@ -1,0 +1,16 @@
+{
+    "name": "chenl/advice",
+    "description": "advice extension pack",
+    "authors": [
+        {
+            "name": "chenl",
+            "email": "chenling@think-land.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chenl\\Advice\\": "src/"
+        }
+    }
+}
